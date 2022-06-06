@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>/Users/burakugar/Desktop/HW8_200104004100</OriginalElement>
+  <nodes>
+    <node x="91.0" y="0.0">graph.Graph</node>
+    <node x="476.0" y="0.0">graph.Vertex</node>
+    <node x="0.0" y="1151.0">graph.DoubleLinkedList.DoubleLinkedList</node>
+    <node x="264.0" y="1151.0">graph.DoubleLinkedList.NodeIterator</node>
+    <node x="656.0" y="1151.0">main</node>
+    <node x="1199.0" y="0.0">graph.DoubleLinkedList.Node</node>
+    <node x="855.0" y="0.0">graph.Edge</node>
+    <node x="0.0" y="214.0">graph.DynamicGraph</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="graph.DynamicGraph" target="graph.Graph" relationship="REALIZATION">
+      <point x="0.0" y="-446.0" />
+      <point x="0.0" y="82.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic" zoom="0.4646767061425827" showDependencies="false" x="833.2716597580359" y="712.1711698428495" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
